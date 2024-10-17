@@ -16,4 +16,4 @@ app.use('/products', productsRouter);
 
 app.listen(PORT, () => {
     console.log(`App listening on localhost ${PORT}`)
-})
+});
